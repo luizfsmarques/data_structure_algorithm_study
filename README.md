@@ -6,6 +6,11 @@ Obs.: On roadmap.sh we can find references to what steps follow and what content
 
 This repository goal, is to keep an accessible summary about the data structure and algorithm; beside that, it will help me to remember contents when needed.
 
+Languages used:
+-> Python
+-> JavaScript
+-> PHP
+
 Other references: 
 
 www.w3schools.com/python
